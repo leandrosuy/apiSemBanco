@@ -7,7 +7,7 @@ app.use(express.json());
 
 // Array de cursos
 const cursos = [
-    'NodeJS',
+    'NodeJS1',
     'React-Native',
     'JavaScript'
 ]

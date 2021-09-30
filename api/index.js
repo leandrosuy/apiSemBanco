@@ -1,5 +1,6 @@
 const express = require('express');
 const app = express();
+const port = process.env.PORT || 3000
 
 // Middlleware para criar itens em formato JSON
 app.use(express.json());
@@ -47,6 +48,6 @@ app.delete('/cursos/:index', (requisicao, resposta) => {
 });
 
 // Criando o servidor que roda na porta 3000
-app.listen((3000), () => {
+app.listen((port), () => {
     console.log('Servidor rodando ...');
 });

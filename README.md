@@ -1,10 +1,10 @@
 <h1 style="text-align: center; font-weight: bold;">API Sem Banco de Dados</h1>
 
-- [ ] Buscar todos os itens na coleção
-- [ ] Buscar um item na coleção
-- [ ] Adicionar itens na coleção
-- [ ] Editar um item na coleção
-- [ ] Excluir itens na coleção
+- [x] Buscar todos os itens na coleção
+- [x] Buscar um item na coleção
+- [x] Adicionar itens na coleção
+- [x] Editar um item na coleção
+- [x] Excluir itens na coleção
 
 ---
 

@@ -30,7 +30,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 Em uma pasta rode o comando:
 
 ```bash
-#Clonar o projeto
+# Clonar o projeto
 git clone https://github.com/leandrosuy/apiSemBanco
 
 # Instalar as dependências

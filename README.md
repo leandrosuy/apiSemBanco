@@ -35,6 +35,7 @@ git clone https://github.com/leandrosuy/apiSemBanco
 
 # Instalar as dependências
 npm install
+
 # Rodar o Projeto
 npm start
 ```
